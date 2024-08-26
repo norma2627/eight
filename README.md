@@ -55,6 +55,6 @@ Demo URL:
 | Category | more info |
 | -------- | ---------------- |
 | 物のカテゴリー識別 | MercariUSの既存の技術 |
-| マッチングアルゴリズム | ![Algorithm詳細](./Algorithm.md) |
+| マッチングアルゴリズム | ![Algorithm](./Algorithm.md) |
 | プライバシーポリシー | ![PrivacyPolicy](./PrivacyPolicy.md) |
 | セキュリティポリシー | ![SecurityPolicy](./SecurityPolicy.md) |
