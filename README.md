@@ -4,6 +4,8 @@
 </h1>
 <br>
 
+<h2>
+
 ## Demo App
 Connecting by your charm
 Demo URL: 
@@ -19,8 +21,10 @@ Demo URL:
 <p>
     <img align="right" width="350" src="https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/teams/CHZs7LSoNO8ZEIbYf7UE/assets/3tlgb8ma4uh2/image1.png" />
 </p>
-<br>
+</h2>
 
+
+<h3>
 
 ## 機能
 | ホーム画面 | マッチ画面 |
@@ -60,3 +64,4 @@ Demo URL:
 | マッチングアルゴリズム | ![Algorithm詳細](./Algorithm.md) |
 | プライバシーポリシー | ![PrivacyPolicy](./PrivacyPolicy.md) |
 | セキュリティポリシー | ![SecurityPolicy](./SecurityPolicy.md) |
+</h3>
