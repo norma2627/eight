@@ -51,7 +51,7 @@ Connecting by your charm
 | ----------------- | --------------------------------------------------   |
 | App　　           |  Flutter Flow　　　　　　　　　　　　                  |
 | Database          | FireBase                                           |
-| Design            | Figma                                                |
+| Design            | Figma, Figjam                                                |
 | etc.              | Git, GitHub                                          |
 
 
@@ -59,6 +59,13 @@ Connecting by your charm
 | Category | more info |
 | -------- | ---------------- |
 | 物のカテゴリー識別 | MercariUSの既存の技術 |
-| マッチングアルゴリズム | ![Algorithm](./Algorithm.md) |
+| マッチングアルゴリズム | ![機能検証](./Algorithm.md) |
 | プライバシーポリシー | ![PrivacyPolicy](./PrivacyPolicy.md) |
 | セキュリティポリシー | ![SecurityPolicy](./SecurityPolicy.md) |
+
+
+## 制作過程
+![figma](./img/figma.png)
+figma: https://www.figma.com/design/WRUUK764n5IhtdYHguBxkV/MercariBOLD?node-id=0-1&t=eSbm6xUanrmCZ5Bp-0
+![figjam](./img/figjam.png)
+figjam: https://www.figma.com/board/U6GthCGdcAU1NM10oL4lJo/MercariBOLD?node-id=0-1
