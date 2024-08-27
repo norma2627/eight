@@ -7,15 +7,19 @@
 
 
 ## Demo App
-Connecting by your charm
-Demo URL: 
+Demo:https://eight2-ee1qxc.flutterflow.app/
+<br>
+![Demo](./img/eight_demo.png)
+
 
 ## eight' Vision
+Connecting by your charm
+<br>
 
 
 ## App Image
-![app](./img/image2.png)
-![app2](./img/image1.png)
+![app](./img/top1.png)
+![app2](./img/top2.png)
 
 
 
@@ -28,12 +32,12 @@ Demo URL:
 
 | Charm一覧 | チャット画面 |
 | ---- | ---- |
-| ![charm一覧](./img/pic4.png) | ![チャット画面](./img/pic3.png) |
+| ![charm一覧](./img/pic4.png) | ![チャット画面](./img/chat.png) |
 | リアクションを送ったCharmが確認可能になります。 | Charmで気の合った相手とチャットが可能になります。 |
 
 | プロフィール | マイアイテム |
 | ---- | ---- |
-| ![プロフィール画面](./img/pic1.png) | ![マイアイテム]() |
+| ![プロフィール画面](./img/pic1.png) | ![マイアイテム](./img/item.png) |
 | プロフィール画像、フォロワー/フォロー数、Charmのビュー数が表示されます。 | ユーザが登録しているアイテム8個を確認することができます。 |
 
 | Charmコレクション |  |
@@ -46,7 +50,7 @@ Demo URL:
 | Category          | Technology Stack                                     |
 | ----------------- | --------------------------------------------------   |
 | App　　           |  Flutter Flow　　　　　　　　　　　　                  |
-| Database          | PostgreSQL                                           |
+| Database          | FireBase                                           |
 | Design            | Figma                                                |
 | etc.              | Git, GitHub                                          |
 
