@@ -7,10 +7,10 @@
 
 
 ## Demo App
+![Demo](./img/eight_demo.png)
+<br>
 Demo:https://eight2-ee1qxc.flutterflow.app/
 <br>
-![Demo](./img/eight_demo.png)
-
 
 ## eight' Vision
 Connecting by your CHARM
@@ -53,24 +53,26 @@ Connecting by your CHARM
 ## 使用技術
 | Category          | Technology Stack                                     |
 | ----------------- | --------------------------------------------------   |
-| App　　           |  Flutter Flow　　　　　　　　　　　　                  |
+| App　　           |  Flutter Flow, Flutter　　　　　                  |
 | Database          | FireBase                                           |
-| Design            | Figma, Figjam                                                |
+| Design            | Figma, FigJam                                                |
 | etc.              | Git, GitHub                                          |
 
 
 ## 検証事項
-| Category | more info |
+| Category | MoreInfo |
 | -------- | ---------------- |
-| マッチングアルゴリズム | ![機能検証](./Algorithm.md) |
-| プライバシーポリシー | ![PrivacyPolicy](./PrivacyPolicy.md) |
-| セキュリティポリシー | ![SecurityPolicy](./SecurityPolicy.md) |
+| LLMによるカテゴリー検出 | ![Extract Keywords](https://github.com/norma2627/chatgpt-image-processing-test) |
+| APIを使用した背景切り抜き | ![Remove BackGround](./PrivacyPolicy.md) |
 
 
 ## 制作過程
-![figma](./img/figma.png)
+![Figma](./img/figma.png)
 <br>
-figma: https://www.figma.com/design/WRUUK764n5IhtdYHguBxkV/MercariBOLD?node-id=0-1&t=eSbm6xUanrmCZ5Bp-0
-![figjam](./img/figjam.png)
+Figma: https://www.figma.com/design/WRUUK764n5IhtdYHguBxkV/MercariBOLD?node-id=0-1&t=eSbm6xUanrmCZ5Bp-0
 <br>
-figjam: https://www.figma.com/board/U6GthCGdcAU1NM10oL4lJo/MercariBOLD?node-id=0-1
+<br>
+
+![FigJam](./img/figjam.png)
+<br>
+FigJam: https://www.figma.com/board/U6GthCGdcAU1NM10oL4lJo/MercariBOLD?node-id=0-1
