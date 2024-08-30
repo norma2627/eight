@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005507944257",
+    "project_id": "eight2-ee1qxc",
+    "storage_bucket": "eight2-ee1qxc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005507944257:android:edd8d0daaa6f20eede8bc0",
+        "android_client_info": {
+          "package_name": "com.mycompany.eight2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFBMlo1vfumvqQ3b8_gdb25FHLrVOYKGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
