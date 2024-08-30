@@ -78,7 +78,7 @@ Figma: https://www.figma.com/design/WRUUK764n5IhtdYHguBxkV/MercariBOLD?node-id=0
 FigJam: https://www.figma.com/board/U6GthCGdcAU1NM10oL4lJo/MercariBOLD?node-id=0-1
 
 
-##　機能詳細
+## 機能詳細
 ### Matching
 - Swipe
  - Right Swipe: 好みのCHARMだった場合、右へスワイプ。
