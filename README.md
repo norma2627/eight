@@ -113,3 +113,6 @@ FigJam: https://www.figma.com/board/U6GthCGdcAU1NM10oL4lJo/MercariBOLD?node-id=0
  - 自分のCHARMのコレクションを確認できる。
 
 ### Others
+
+## 発表資料
+![発表資料](./img/Team%20D%20-%20Eight.pdf)
