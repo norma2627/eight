@@ -36,8 +36,8 @@ Connecting by your CHARM
 
 | CHARM Detail | Move to Mercari US |
 | ---- | ---- |
-| ![CHARM](./img/app3.png) | ![MercariUS](./img/app4.png) |
-| お気に入りのCHARMをクリックすると拡大表示されます。 | `M`が付いている物をクリックするとMercari USの商品ページへと繋がります。 |
+| ![CHARM](./img/app9.png) | ![MercariUS](./img/app10.png) |
+| お気に入りのCHARMをクリックすると拡大表示されます。`M`が付いている物を長押しすると物の品名と値段が表示されます。 | `M`が付いている物をダブルクリックするとMercari USで出品されている同じ商品の検索画面となります。 |
 
 | Profile | My item |
 | ---- | ---- |
