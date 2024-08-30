@@ -63,7 +63,7 @@ Connecting by your CHARM
 | Category | MoreInfo |
 | -------- | ---------------- |
 | LLMによるカテゴリー検出 | ![Extract Keywords](https://github.com/norma2627/chatgpt-image-processing-test) |
-| APIを使用した背景切り抜き | ![Remove BackGround](./PrivacyPolicy.md) |
+| APIを使用した背景切り抜き | ![Remove BackGround](https://github.com/norma2627/remove_background_test) |
 
 
 ## 制作過程
